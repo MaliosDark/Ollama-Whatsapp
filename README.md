@@ -16,13 +16,14 @@ To get started with Ollama, follow these simple steps:
 
 ### Prerequisites
 
+- Ollama  Installed and Running Locally
 - Node.js installed on your machine
 - Venom and Ollama libraries installed via npm
 - CUDA-enabled GPU (optional for GPU acceleration)
 
 ### Usage
 
-To use Ollama, execute the `ollama.js` script with Node.js. Customize the script as needed to tailor the chatbot experience to your requirements.
+To use Ollama Whatsapp, execute the `ollama.js` script with Node.js. Customize the script as needed to tailor the chatbot experience to your requirements.
 
 ```bash
 node ollama.js
